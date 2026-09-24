@@ -6,7 +6,20 @@
       "dest": "/api/config.js"
     },
     {
-      "handle": "filesystem"
+      "src": "/admin.html",
+      "dest": "/admin.html"
+    },
+    {
+      "src": "/signup.html",
+      "dest": "/signup.html"
+    },
+    {
+      "src": "/super_admin_dashboard.html",
+      "dest": "/super_admin_dashboard.html"
+    },
+    {
+      "src": "/index.html",
+      "dest": "/index.html"
     },
     {
       "src": "/(.*)",
