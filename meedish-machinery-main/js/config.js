@@ -1,4 +1,0 @@
-window.MEDISH_APP_CONFIG = {
-    SUPABASE_URL: 'https://njlcuvwtkhkcjkywfdgf.supabase.co',
-    SUPABASE_ANON_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5qbGN1dnd0a2hrY2preXdmZGdmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODg1MDA0MTAsImV4cCI6MjEwNDA3NjQxMH0.nCw2pSYIXllFEI0zp9O720GP4RTMQlAOzsvSEoDHdSQ'
-};
